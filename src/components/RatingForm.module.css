@@ -1,0 +1,59 @@
+.inputGroup {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating {
+    width: 3rem;
+    height: 3rem;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.rating:hover {
+    background-color: hsl(216, 12%, 54%);
+}
+
+.checked {
+    background-color: hsl(25, 97%, 53%);
+
+}
+
+.rating:hover label, .rating.checked label {
+    color: #fff;
+}
+
+.ratingForm input {
+    display: none;
+}
+
+.ratingForm label {
+    color: hsl(216, 12%, 54%);
+    cursor: pointer;
+    font-weight: 700;
+
+}
+
+.ratingForm button {
+    width: 100%;
+    padding: 1rem 0;
+    border-radius: 1.5rem;
+    border: none;
+    color: #fff;
+    background-color: hsl(25, 97%, 53%);
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: .5rem;
+    cursor: pointer;
+}
+
+.ratingForm button:hover {
+    color: hsl(25, 97%, 53%);
+    background-color: #fff;
+}
