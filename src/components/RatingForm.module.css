@@ -56,3 +56,18 @@
     color: hsl(25, 97%, 53%);
     background-color: #fff;
 }
+
+@media screen and (min-width: 768px) {
+    .inputGroup {
+        margin-bottom: 2rem;
+    }
+
+    .rating {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .ratingForm label {
+        font-size: 1.2rem;
+    }
+}
