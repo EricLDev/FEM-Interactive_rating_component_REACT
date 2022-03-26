@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FEM-Interactive_rating_component_REACT/static/css/main.d871dc18.css",
+    "main.js": "/FEM-Interactive_rating_component_REACT/static/js/main.40fd2b66.js",
+    "static/js/787.529cc97a.chunk.js": "/FEM-Interactive_rating_component_REACT/static/js/787.529cc97a.chunk.js",
+    "static/media/illustration-thank-you.svg": "/FEM-Interactive_rating_component_REACT/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/FEM-Interactive_rating_component_REACT/index.html",
+    "static/media/icon-star.svg": "/FEM-Interactive_rating_component_REACT/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.d871dc18.css.map": "/FEM-Interactive_rating_component_REACT/static/css/main.d871dc18.css.map",
+    "main.40fd2b66.js.map": "/FEM-Interactive_rating_component_REACT/static/js/main.40fd2b66.js.map",
+    "787.529cc97a.chunk.js.map": "/FEM-Interactive_rating_component_REACT/static/js/787.529cc97a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d871dc18.css",
+    "static/js/main.40fd2b66.js"
+  ]
+}
