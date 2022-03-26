@@ -1,0 +1,28 @@
+.thankYou {
+    color: #fff;
+    text-align: center;
+}
+
+.thankYou img {
+    width: 50%;
+    margin: 1rem 0;
+}
+
+.thankYou div {
+    color: hsl(25, 97%, 53%);
+    background-color: hsl(213, 19%, 18%);
+    padding: .5rem;
+    border-radius: 1.5rem;
+    display: inline-block;
+    margin: .5rem 0;
+}
+
+.thankYou h2 {
+    margin: 1rem 0;
+    font-size: 1.6rem;
+}
+
+.thankYou p {
+    color: hsl(216, 12%, 54%);
+    margin-bottom: 1.3rem;
+}
