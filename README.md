@@ -1,6 +1,6 @@
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-using-react-SyxzgjhM9]
 - Live Site URL: [https://ericl81.github.io/FEM-Interactive_rating_component_REACT/]
 
 # Frontend Mentor - Interactive rating component
